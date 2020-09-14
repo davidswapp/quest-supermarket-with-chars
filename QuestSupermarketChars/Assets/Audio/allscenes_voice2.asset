@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: allscenes_voice2
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 40bdd9cbbc11472449eed3af49c44ee5, type: 3}
+  phonemeData: []
+  emotionData: []
+  gestureData: []
+  version: 1.521
+  length: 204.00037
+  transcript: "Twelve? Are you sure? How many cakes do we need?\r\nOh okay, well
+    at least we have time.\r\nWe still have a few hours, baking cakes dozen take
+    THAT long.\r\nWe should hurry a bit though\u2026 This is the only supermarket
+    in the area but I\u2019ve never been here. Have you?\r\nShould and be that difficult,
+    they are usually close to baking stuff right?\r\nYeah lets grab a few bottles
+    of milk. And maybe some cream? I thought we needed some with the strawberries.\r\nAre
+    eggs even kept in the fridge? My flat mate always leaves them on the kitchen
+    counter\u2026 To be honest he leaves everything on the kitchen counter so it\u2019s
+    not really a trustworthy reference. I dolt think the eggs are here though. \r\nAll
+    I can see is pizza. Maybe we should just buy a bunch of frozen pizza and serve
+    them instead. \r\nSame. Lets just get a few pizza so that we can have something
+    before the event. What time does the event start again? \r\nDefinitely. Anyway,
+    the eggs. How difficult can it be to put eggs on display? And where is the staff
+    in this place? Canned even ask for help. Guess we should have a look in the dry
+    food aisle, that where they keep a lot of baking stuff. \r\nYeah who designed
+    this place? Theirs no navigation signs either, it\u2019s impossible to find anything
+    here. Well I guess weave got milk and pizza. \r\nYeah actually that a good idea.
+    We really need to get going, since the drive there takes ages. And I still canned
+    see any eggs!\r\nI mean probably, but we want have time to wait for chickens
+    to lay eggs, the drive there takes an hour too.\r\nYeah that seems like our best
+    bet at the moment. I\u2019m sure nobody will notice! Lets grab everything we
+    need and hurry up!\r\n"
+  phonemePoseCurves: []
+  emotionPoseCurves: []
+  targetComponentID: 0
+  isPreprocessed: 0
+  indexBlendables: 
+  animCurves: []
+  bones: []
+  boneCurves: []
+  boneNeutralPositions: []
+  boneNeutralScales: []
+  boneNeutralRotations: []
